@@ -1,0 +1,9 @@
+{
+    "code-runner.runInTerminal": false,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.executorMap": {
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt"
+        
+    }
+}
